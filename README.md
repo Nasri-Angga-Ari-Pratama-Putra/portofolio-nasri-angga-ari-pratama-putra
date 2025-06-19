@@ -81,5 +81,5 @@ Saya selalu terbuka untuk berdiskusi tentang inovasi AI, pengembangan sistem, at
 Anda bisa menambahkan widget yang menampilkan statistik GitHub Anda secara dinamis. Ini akan membuat profil Anda terlihat lebih profesional dan aktif. Cari di GitHub untuk "GitHub stats card" atau "GitHub streak stats" untuk menambahkan ini.
 
 ```markdown
-![Nasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Nasri's GitHub Stats](https://github-readme-stats.vercel.app/api?nasri-angga-ari-pratama-putra=yourgithubnasri-angga-ari-pratama-putra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
