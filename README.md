@@ -1,5 +1,7 @@
 ## Welcome to my digital space!📡
 
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/portofolio-nasri-angga-ari-pratama-putra/blob/main/AI_1.png)
+
 ---
 
 **I'm Nasri Angga Ari Pratama Putra**, a passionate problem-solver and developer. As a System Information graduate from Universitas Dinamika Bangsa, I've built a strong foundation in understanding how technology can shape solutions.
