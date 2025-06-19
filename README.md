@@ -1,58 +1,85 @@
 # Halo! Saya Nasri Angga Ari Pratama Putra 👋
 
-Seorang **lulusan Sistem Informasi** dari **Universitas Dinamika Bangsa** yang antusias dalam dunia teknologi. Saat ini, saya sedang memperdalam keahlian saya sebagai peserta pelatihan **AI ECO TECHNO LEADER**, berfokus pada inovasi teknologi yang berkelanjutan.
+### Transforming Ideas into Impactful Solutions 🚀
 
-Saya percaya bahwa kombinasi antara pengetahuan sistem informasi dan pemahaman mendalam tentang AI dapat menciptakan solusi-solusi transformatif yang tidak hanya efisien tetapi juga ramah lingkungan.
+Lulusan **Sistem Informasi** dari **Universitas Dinamika Bangsa** yang bersemangat menggali potensi teknologi untuk menciptakan solusi inovatif dan berkelanjutan. Saat ini, saya tengah memperdalam keahlian di garis depan inovasi sebagai peserta pelatihan **AI ECO TECHNO LEADER**.
 
----
-
-### 🚀 Keahlian Teknis
-
-* **Bahasa Pemrograman:** Python (khususnya untuk AI/ML), Java, JavaScript, SQL
-* **Framework/Library:** TensorFlow, Keras, Scikit-learn (sesuaikan dengan yang kamu pelajari di AI ECO TECHNO LEADER)
-* **Database:** MySQL, PostgreSQL
-* **Tools:** Git, GitHub, Docker (jika menguasai)
-* **Konsep AI/ML:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision (sesuaikan dengan fokus pelatihanmu)
-* **Sistem Informasi:** Analisis Sistem, Desain Basis Data, Pengembangan Web
+Saya percaya bahwa perpaduan antara pemahaman mendalam tentang sistem, data, dan kecerdasan buatan, khususnya dalam konteks keberlanjutan, adalah kunci untuk membentuk masa depan yang lebih baik.
 
 ---
 
-### 💡 Proyek Pilihan (Project Portfolio)
+### ✨ Keahlian Utama & Teknologi Pilihan
 
-#### **Proyek AI/ECO TECHNO LEADER**
+Saya fokus pada pengembangan solusi yang cerdas dan efisien, didukung oleh:
 
-* **[Nama Proyek 1 - Dari AI ECO TECHNO LEADER]**
-    * **Deskripsi Singkat:** Mengembangkan model Machine Learning untuk prediksi [sesuatu yang relevan dengan lingkungan/teknologi berkelanjutan].
-    * **Teknologi Digunakan:** Python, TensorFlow, [Dataset yang digunakan].
-    * **Fitur Utama:** Akurasi tinggi dalam prediksi, visualisasi data interaktif.
-    * **Manfaat/Dampak:** Mengurangi konsumsi energi sebesar X% melalui prediksi optimal.
-    * [Link ke Repositori Proyek](https://github.com/yourusername/project1)
-    * [Lihat Demo (Opsional)](link_to_demo_or_video)
-
-* **[Nama Proyek 2 - Dari AI ECO TECHNO LEADER (jika ada lagi)]**
-    * **Deskripsi Singkat:** Implementasi sistem [sesuatu] menggunakan konsep Deep Learning.
-    * **Teknologi Digunakan:** Python, Keras, [teknologi lain].
-    * [Link ke Repositori Proyek](https://github.com/yourusername/project2)
-
-#### **Proyek Sistem Informasi/Lainnya**
-
-* **Sistem Informasi Manajemen Perpustakaan**
-    * **Deskripsi Singkat:** Sistem berbasis web untuk pengelolaan koleksi buku, peminjaman, dan pengembalian.
-    * **Teknologi Digunakan:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript.
-    * [Link ke Repositori Proyek](https://github.com/yourusername/library-system)
+* **Machine Learning & Deep Learning:** TensorFlow, Keras, Scikit-learn, PyTorch (jika relevan).
+* **Bahasa Pemrograman:** Python (khususnya untuk Data Science & AI), Java, JavaScript.
+* **Database & Data Management:** MySQL, PostgreSQL, SQL Server.
+* **Pengembangan Sistem:** Konsep dasar pengembangan web (HTML, CSS, JS), API Development.
+* **Tools:** Git, GitHub, Docker (jika menguasai), Google Cloud Platform/AWS (jika ada pengalaman).
 
 ---
 
-### 🏀 Hobi & Minat
+### 💡 Proyek Pilihan (My AI & SI Innovations)
 
-Selain coding, saya juga seorang penggemar **basket** dan **bersepeda**! Kedua hobi ini mengajarkan saya pentingnya strategi, ketahanan, dan kerja tim – kualitas yang juga saya terapkan dalam pengembangan perangkat lunak.
+Setiap proyek adalah cerita tentang bagaimana saya memecahkan masalah. Berikut adalah beberapa highlight yang mencerminkan passion saya:
+
+#### **AI & Sustainability Projects (from AI ECO TECHNO LEADER)**
+
+*(Ini adalah bintang utama portofoliomu. Pastikan repositorinya bersih, terstruktur, dan memiliki README yang bagus!)*
+
+* **[Judul Proyek AI Eco-Tech 1]: Prediksi [X] untuk Efisiensi Energi [Y]**
+    * **Deskripsi:** Mengembangkan model Machine Learning untuk [jelaskan tujuan spesifik, misalnya: memprediksi konsumsi energi bangunan berdasarkan variabel lingkungan untuk mengoptimalkan penggunaan daya].
+    * **Teknologi:** Python, TensorFlow, Pandas, Scikit-learn.
+    * **Dampak:** Mampu mengurangi potensi pemborosan energi sebesar X% atau meningkatkan efisiensi [Y].
+    * [Link ke Repositori Proyek](https://github.com/yourusername/project-ai-eco1)
+    * [Lihat Demo/Presentasi (Opsional, sangat direkomendasikan jika ada video singkat atau website demo)]
+
+* **[Judul Proyek AI Eco-Tech 2]: Sistem Klasifikasi Sampah Cerdas Berbasis Computer Vision**
+    * **Deskripsi:** Implementasi Convolutional Neural Network (CNN) untuk mengidentifikasi dan mengklasifikasikan jenis sampah secara otomatis, mendukung upaya daur ulang.
+    * **Teknologi:** Python, Keras, OpenCV, dataset gambar [nama dataset jika publik].
+    * **Dampak:** Mempercepat proses pemilahan sampah dan meningkatkan akurasi daur ulang.
+    * [Link ke Repositori Proyek](https://github.com/yourusername/project-ai-eco2)
+
+#### **Sistem Informasi & Data Projects**
+
+*(Proyek dari kuliah atau mandiri yang menunjukkan kemampuan dasar SI-mu)*
+
+* **Sistem Informasi Akademik Interaktif**
+    * **Deskripsi:** Pengembangan sistem web untuk pengelolaan data mahasiswa, jadwal perkuliahan, dan nilai, dengan antarmuka yang user-friendly.
+    * **Teknologi:** Java (Spring Boot), MySQL, HTML, CSS, JavaScript (React/Vue.js jika digunakan).
+    * [Link ke Repositori Proyek](https://github.com/yourusername/academic-info-system)
+
+* **[Proyek Lain yang Signifikan]: [Deskripsi Singkat]**
+    * [Link ke Repositori Proyek](https://github.com/yourusername/another-project)
 
 ---
 
-### 📞 Mari Terhubung!
+### 🏀 Lebih dari Sekadar Kode: Passion & Drive
 
-Saya selalu terbuka untuk berdiskusi tentang teknologi, AI, atau bahkan sekadar berbagi cerita tentang basket dan bersepeda!
+Di luar dunia komputasi, saya menemukan energi dan pelajaran berharga dari **basket** dan **bersepeda**.
+
+* **Basket:** Mengajarkan saya pentingnya **strategi tim, adaptasi cepat, dan ketahanan** di bawah tekanan.
+* **Bersepeda:** Mengasah **fokus, daya tahan, dan kemampuan untuk merencanakan jalur** menuju tujuan – analogi yang sempurna untuk menyelesaikan proyek-proyek kompleks.
+
+Kedua hobi ini membentuk pola pikir saya dalam menghadapi tantangan, baik di lapangan maupun dalam dunia pengembangan perangkat lunak.
+
+---
+
+### 🤝 Mari Berkolaborasi!
+
+Saya selalu terbuka untuk berdiskusi tentang inovasi AI, pengembangan sistem, atau peluang kolaborasi yang menarik. Jangan ragu untuk terhubung!
 
 * **Email:** your.email@example.com
 * **LinkedIn:** [Link Profil LinkedIn Kamu](https://www.linkedin.com/in/yourlinkedinprofile)
-* **Twitter/X (Opsional):** [Link Profil Twitter/X Kamu](https://twitter.com/yourtwitter)
+* **[Platform Lain jika ada, misal Twitter/Medium]**
+
+---
+
+### 📈 Statistik GitHub (Opsional, tapi Menarik!)
+
+Anda bisa menambahkan widget yang menampilkan statistik GitHub Anda secara dinamis. Ini akan membuat profil Anda terlihat lebih profesional dan aktif. Cari di GitHub untuk "GitHub stats card" atau "GitHub streak stats" untuk menambahkan ini.
+
+```markdown
+![Nasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
